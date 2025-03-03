@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+name: "Midwest Data Librarian Symposium"
+description: Website for Midwest Data Librarian Symposium.
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
+remote_theme: just-the-docs/just-the-docs
+plugins:
+- jekyll-remote-theme
+url: mw-data-lib-symposium.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
