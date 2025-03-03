@@ -5,12 +5,12 @@ layout: home
 # Midwest Data Librarian Symposium
 ## an unconference for data and librarians
 
-<p style="text-align: center;font-size:30px;">MDLS 2025</p><br>
-<p style="text-align: center;font-size:30px;">October 20-22, 2025</p><br>
-<p style="text-align: center;font-size:30px;">East Lansing, MI</p><br>
-<br>
-<p style="text-align: center;font-size:24px;">Hosted by:</p>
-<p style="text-align: center;font-size:24px;">Michigan State University & Wayne State University</p>
+MDLS 2025  
+October 20-22, 2025  
+East Lansing, MI  
+
+Hosted by:  
+Michigan State University & Wayne State University
 
 <!-- NO SHOW ZONE
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
