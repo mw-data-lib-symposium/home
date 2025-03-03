@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 # **Midwest Data Librarian Symposium**
 ## an unconference for data and librarians
